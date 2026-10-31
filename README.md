@@ -25,7 +25,7 @@ October 30, 2026 · Data Storytelling with Adobe Express
 
 Work sample for Jordan Ellis, VP of Card Growth at Bear Down Bank: prioritize Gen Z for the Wildcat Rewards pilot mailing, targeting 128 eligible customers with a 26.4% qualification rate.
 
-[Work sample (PDF)](https://github.com/jonathonlee/MIS561-DataVisualizationPortfolio/blob/main/adobe/lee-data-storytelling.pdf) · [Adobe Express](https://new.express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:888e4dd9-12b5-596e-9629-aed326c8c01d?promoid=Y69SGM5H&sid=C4SZ2FYJ&mv=other)
+[Work sample (PDF)](https://github.com/jonathonglee/MIS561-DataVisualizationPortfolio/blob/main/adobe/lee-data-storytelling.pdf) · [Adobe Express](https://new.express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:888e4dd9-12b5-596e-9629-aed326c8c01d?promoid=Y69SGM5H&sid=C4SZ2FYJ&mv=other)
 
 Design choice: I used a horizontal bar chart to compare eligibility rates across generations, highlighting Gen Z because its 26.4% qualification rate is the highest and directly supports the pilot mailing recommendation. I also emphasized the 128 qualified Gen Z customers to make the potential mailing audience immediately clear. I removed unnecessary dashboard elements and exploratory controls to keep the infographic focused on the recommendation rather than the underlying analysis.
 
