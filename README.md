@@ -20,3 +20,13 @@ For division of labor, I would use Excel for one-time cleaning and checking of t
 Advancing in Excel and Tableau - Pt.3, Which non-contactless cards should Bear Down Bank prioritize for early replacement, how many cards should be replaced, and what would the total cost be?, Tableau Link: https://public.tableau.com/views/CardPortfolioReview-ContactlessReadiness_17924446705230/ExploratoryDash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link , If I were to complete this project again, I would incorporate additional cost-benefit analysis to better evaluate the financial trade-offs of replacing cards early versus allowing them to expire naturally.
 
 Advancing in Excel and Tableau - Pt.4, Which customer segment should Bear Down Bank target for its initial Wildcat Rewards Card pilot mailing based on eligibility rates?, Tableau Link: https://public.tableau.com/views/CardGrowthAnalysis-WildcatRewardsOffer_17928337394370/ExploratoryDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link , If I were to complete this project again, I would incorporate additional demographic and geographic factors to identify more targeted customer segments and improve the effectiveness of the pilot mailing.
+
+October 30, 2026 · Data Storytelling with Adobe Express
+
+Work sample for Jordan Ellis, VP of Card Growth at Bear Down Bank: prioritize Gen Z for the Wildcat Rewards pilot mailing, targeting 128 eligible customers with a 26.4% qualification rate.
+
+[Work sample (PDF)] (https://github.com/jonathonglee/MIS561-DataVisualizationPortfolio/blob/main/adobe/lee-data-storytelling.pdf) · [Adobe Express] (https://new.express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:888e4dd9-12b5-596e-9629-aed326c8c01d?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other)
+
+Design choice: I used a horizontal bar chart to compare eligibility rates across generations, highlighting Gen Z because its 26.4% qualification rate is the highest and directly supports the pilot mailing recommendation. I also emphasized the 128 qualified Gen Z customers to make the potential mailing audience immediately clear. I removed unnecessary dashboard elements and exploratory controls to keep the infographic focused on the recommendation rather than the underlying analysis.
+
+Training completed: Oct 30, 2026
